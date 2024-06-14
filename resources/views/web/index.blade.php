@@ -14,7 +14,7 @@
     <div class="container mx-auto flex justify-between items-center">
         <p class=" text-white text-3xl">Todo<span class=" text-orange-600 font-bold">Mochilas</span></p>
 
-        <nav>
+        <nav class="list-none">
             <a href="#" class="text-white px-3">Categorias</a>
             <a href="#" class="text-white px-3">Empresa</a>
             <a href="#" class="text-white px-3">Galeria</a>
